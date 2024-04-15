@@ -1,18 +1,20 @@
-### Hi there 👋
+### NicolasMoonlight (Noctious) 🚀 
 
-<img src="https://raw.githubusercontent.com/NicolasMoonlight/NicolasMoonlight/main/images/github-contribution-grid-snake.svg" alt="я джифка">
+![](https://views.whatilearened.today/views/github/NicolasMoonlight/views.svg)
 
-<!--
-**NicolasMoonlight/NicolasMoonlight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 💡
 
-Here are some ideas to get you started:
+Noctious here, a gamer who loves photography, but is getting more and more into programming...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I write shitty code (I know)
+
+Favorite Game: Minecraft
+
+![](https://github.com/NicolasMoonlight/NicolasMoonlight/blob/main/images/github-contribution-grid-snake.svg)
+
+- 💖 My website [Noctious](https://noctious.pp.ua/)
+
+- 🕹 Play game with me :  [Steam](https://steamcommunity.com/id/Noctious1)
+
+- 💻 Contact me : [Telegram](https://t.me/Noctious)
+
