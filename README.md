@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="[https://media1.giphy.com/media/10FwycrnAkpshW/giphy.gif](https://raw.githubusercontent.com/NicolasMoonlight/NicolasMoonlight/main/images/github-contribution-grid-snake.svg)" alt="я джифка">
+<img src="https://raw.githubusercontent.com/NicolasMoonlight/NicolasMoonlight/main/images/github-contribution-grid-snake.svg" alt="я джифка">
 
 <!--
 **NicolasMoonlight/NicolasMoonlight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
