@@ -4,7 +4,7 @@
 
 Hello there! 💡
 
-Noctious here, a gamer who loves photography, but is getting more and more into programming...
+Noctious here, a gamer who loves po... por... photography, but is getting more and more into programming...
 
 I write shitty code (I know)
 
